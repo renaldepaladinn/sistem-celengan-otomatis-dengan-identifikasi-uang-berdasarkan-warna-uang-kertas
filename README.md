@@ -16,4 +16,5 @@ Proyek pendeteksi nominal uang kertas berbasis Arduino UNO yang menggunakan sens
   •	Bahasa Pemrograman: C++ (Arduino framework)
 
 Proyek Mata Kuliah Instrumentasi Elektronika
+
 Tanggal Proyek: 1 Juni 2025
